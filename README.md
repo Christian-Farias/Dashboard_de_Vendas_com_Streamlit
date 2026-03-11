@@ -26,7 +26,7 @@
 Você pode acessar o dashboard online através do Streamlit:
 
 🔗 **Link da aplicação:**  
-https://christian-farias-analisededados-main-jnsq2d.streamlit.app
+https://dashboardvends.streamlit.app
 
 ---
 

@@ -12,7 +12,9 @@
 # Preview da Aplicação
 
 <div align="center">
-  <img src="preview.png"/>
+  <img src="img_dashboard1.png"/>
+  <img src="img_dashboard2.png"/>
+  <img src="img_dashboard3.png"/>
 </div>
 
 ---
